@@ -1,0 +1,51 @@
+.modal {
+  display: none;
+}
+
+.modal.modal--is-open {
+  display: flex;
+}
+
+input[type=text]{
+  border: none;
+  border-bottom: 1px solid red;
+}
+
+select{
+  border-radius: 6px;
+  border: none;
+  background-color: #f1f1f1;
+}
+
+
+
+input[type=submit]{
+  margin-top: 4px;
+  padding: 5px 15px;
+  background-color: white;
+  border: 1px solid red;
+  border-radius: 25px;
+}
+
+input[type=submit]:hover{
+  background-color: red;
+  color: white;
+}
+
+label{
+  font-weight: bold;
+}
+/*
+button{
+  
+  background-color: white;
+  border: 1px solid red;
+  padding: 5px 15px;
+  align-items: flex-end;
+  border-radius: 25px;
+}
+
+button:hover{
+  background-color: red;
+  color: white;
+}*/

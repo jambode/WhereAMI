@@ -1,0 +1,9 @@
+#mapid { height: 180px; }
+ 
+.map {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    height: 80%;
+    width: 100%;
+}

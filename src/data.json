@@ -1,0 +1,6 @@
+let data = {
+    loc: [
+        {"name": "Picadilly Circus", "coordinates":[51.5098192, -0.1345484]},
+        {"name": "Leicester Square", "coordinates":[51.51043, -0.13]}
+    ],
+}
