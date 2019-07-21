@@ -1,7 +1,4 @@
 import React, { Component } from 'react';
-import Toolbar from './component/Toolbar/Toolbar';
-import Hamburger from './component/Hamburger/Hamburger';
-import Backdrop from './component/Backdrop/Backdrop';
 import Map from './component/Map/Map';
 import MapEditor from './component/MapEditor/MapEditor';
 import { FontAwesomeIcon } from '../node_modules/@fortawesome/fontawesome-free';
