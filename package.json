@@ -33,7 +33,7 @@
     "open-new-tab": "0.0.1",
     "passport": "^0.4.0",
     "popups": "^1.1.3",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "r-json": "^1.2.9",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.9",
