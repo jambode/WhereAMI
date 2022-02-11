@@ -15,7 +15,7 @@
     "bug-killer": "^4.4.4",
     "cors": "^2.8.5",
     "ejs": "^2.6.2",
-    "express-handlebars": "^3.1.0",
+    "express-handlebars": "^5.3.1",
     "express-redirect": "^1.2.2",
     "ffmetadata": "^1.5.0",
     "ffmpeg": "0.0.4",
